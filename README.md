@@ -43,4 +43,4 @@ git clone https://github.com/ayush262001/ETH-Balance-Checker-with-Logging.git
 
 ---
 
-![ETH Balance UI](./eth.png)
+![ETH Balance UI](https://github.com/ayush262001/ETH-Balance-Checker-with-Logging/blob/main/eth.png)
